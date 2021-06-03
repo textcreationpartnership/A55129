@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pleasant funeral-oration at the interment of the three lately deceased Tower-Lyons</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55129</idno><idno type="EEBO-CITATION">13734036</idno>
+  <idno type="VID">101615</idno>
+  <idno type="EEBO-PROQUEST">2240868904</idno>
+  
+            <idno type="STC">Wing P2547</idno>
+            <idno type="STC">ESTC R8366</idno>
+            <idno type="OCLC">13734036</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101615)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 846:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pleasant funeral-oration at the interment of the three lately deceased Tower-Lyons</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An anti-Catholic satire.</note>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Stafford, William Howard, --  Viscount, 1614-1680.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="oration">
+            <pb n="1" facs="tcp:101615:1"/>
+            <head>A Pleasant Funeral-Oration, AT THE INTERMENT OF THE Three (lately Deceased) TOWER-LYONS.</head>
+            <p>HOw! the Lyons dead! 'Tis impossible—Why are Lyons Immortal?— Not as they are Lyons, but as they are <hi>Tower-Lyons</hi> they are. Why you don't hear of a <hi>Tower-Lyon</hi> that dies in an Age. <hi>Tower-Lyons!</hi> 'Tis as much the Keepers Interest to be careful and tender of them, as it is a younger Bro<g ref="char:EOLhyphen"/>thers to prolong the Life of an old Wife with a Joynture. <hi>Tower-Lyons!</hi> You don't know what <hi>Tower-Lyons</hi> are. They are the Darlings, the delight of the People, and now they are gon, my Life for Yours we shall hear of the Death of some Body at one time or other. Now for as many Guineys for a Purchase, as there have been Sur<g ref="char:EOLhyphen"/>mises, and Conjectures, <hi>and I pray God grants</hi> passionately whispered forth upon this fatal Accident. The Superstitious <hi>Papist</hi> sneers up his Nose, and cries it por<g ref="char:EOLhyphen"/>tends well o' their side, for cutting off the Lord <hi>Stafford</hi>'s Head. Why what has the Lord <hi>Stafford</hi>'s Head to do with the Lyons? Oh yes—For he carried a Lyons Heart to the Scaffold with him, and therefore they have to do with his Head. 'Twas well they did not deal by his Lordship as the <hi>Persians</hi> did by <hi>Daniel;</hi> for had these Lyons been his Executioners, their unexpected Deaths had been the effect of the Popes Curses upon <hi>Heretick</hi>'s. But now it must be a Judgment among Us. And truly 'twas a hard case that such a Judgment should fall upon one that perhaps never deserv'd it. For 'tis a Hundred to One whither the Keeeper had any Hand in the Lord <hi>Stafford</hi>'s Execution or no; and yet because he was Executed how many Pence and Two-pences must the Keeper loose? So that now there is no entertainment left for the Countrey Maidens that come to Town a purpose, now the Lyons are dead, but only the <hi>Tombs</hi> themselves. And yet no such Calamitie neither; the place being easily supply'd from the Bear-Garden; for one living Dog is better then three dead Lyons.</p>
+            <p>But that's not the business: Here are three Tower-Lyon's dead, and therefore three great <hi>Sombody's</hi> must follow 'em. As if because <hi>Living-Lyons</hi> have their <hi>Jackals,</hi> therefore dead Lyons must be the <hi>Jackals</hi> of Death themselves to run be<g ref="char:EOLhyphen"/>fore the <hi>Hearses</hi> of great Personages. The stars protect the famous <hi>Albion</hi> and <hi>Corineus,</hi> those Noble Guardians of the Hustings and Sheriffs Courts in <hi>Guild-Hall.</hi>
+            </p>
+            <p>But a Lyon is the King of Beasts, and 'twas never known that they ever dy'd but upon some Emergent occasion; and therefore before the three Kings of <hi>Cullen</hi> died, there were three Lyons died just in this sullen froward, frompish manner. Hang 'em <hi>Weezels</hi> of <hi>Ill-omens,</hi> had they fall'n by the hand of <hi>Sampson, David,</hi> or <hi>Hercules,</hi> they had dy'd in the Bed of Honour, but to sneak out of the World with a Surfet of raw Carrion in their Guts, and forget to drink Brandy too! the com<g ref="char:EOLhyphen"/>mon Physick of the Times! was a death no way becoming three Lyon's that in<g ref="char:EOLhyphen"/>tended to foretel the death of Princes.</p>
+            <pb n="2" facs="tcp:101615:2"/>
+            <p>But to die all three together; to die as it were by <hi>consent,</hi> there must be some<g ref="char:EOLhyphen"/>thing more then Ordinary in the business. Either it was a <hi>Sham</hi>-plot of Mrs. <hi>Cel<g ref="char:EOLhyphen"/>liers Presbyterians</hi> to create fears and jealousies in the Nation; or else it was a Plot among themselves to make the World believe strange things. Well, fare 'em well they dy'd like Lyons however.</p>
+            <p>Thus you see what 'tis to be a <hi>Tower-Lyon;</hi> I'le warrant ye all the Lyons and Lyonesses in the Deserts of <hi>Lybia,</hi> might have dy'd of a Lyon Pestilence, and not one word have been made of it. Here are only three Lyons die in the Tower, nay, 'tis but within the Precinct of the Tower neither, and presently they set three Presses a going in the Metropoils of the Nation.</p>
+            <p>Some People reported that the great Guns were carry'd into the Tower, because three of its chief Guardians were deceased. But we believe no such thing: and therefore let 'em e'en go like Emblems of the Wicked as they are,
+<q>
+                  <l>—Whose Teeth.</l>
+                  <l>Like Lyons Whelps hang out.</l>
+               </q>
+            </p>
+            <p>Others there are who say, That a certain Parson should report at a Coffee-house that these Lyons were poyson'd. Truly 'twas pitty, that he had not been enjoyn'd for his pains to preach their Funeral Sermon. We could have furnished him with matter and told him how that Lyons were sacred to <hi>Vulcan;</hi> by reason of the heat and fury of their courage, how they were honour'd to draw the Chariot of the Mother of the god's, to shew that the fierceness and intemperancy of Youth is to be mollified and govern'd by the Discretion of Age, and as for their lives and conversations the Keeper could have given him an accompt, ever since he began to exercise their patience with his long Pole. We could have told him of the cur<g ref="char:EOLhyphen"/>tesie of the Lyon that licked off the sweat from the Forhead of <hi>Sandracottus</hi> as he lay asleep; and of the Gratitude of the Lyon to <hi>Androdus,</hi> for having formerly pull'd a Thorn out of his foot. These had been rare Theames, for a young Pulpit Rhetori<g ref="char:EOLhyphen"/>cian.</p>
+            <p>But must these Lyons then die forgot, among the common Croud of Vulgar Lyons? These Lyons that had been so long in <hi>England</hi> that they might have claim'd Naturalization; these Lyons that were wont to be more visited then a Cardinal <hi>Padron,</hi> or a Popes Nephew? Truly 'tis great pitty they should. And if they do, 'tis only the fault of our Astrologers. It were an easie thing for them, and would cost 'em nothing neither, to remove the <hi>Nemean</hi> Lyon (hang him what should a Heathen Lyon do there, now the Zodiac has chang'd its Religion?) and place these three Lyons in his room. Questionless the Zodiac is broad enough to hold 'em all three. And who knows how propitious an <hi>English</hi> Constellation may be to the Kingdom? And then for the difficulty of their mounting the Sky, to per<g ref="char:EOLhyphen"/>fect their design, they need never fear it; for the <hi>Vertuosi</hi> will lend e'm an Engine to fly, and a Crane with Ropes ready fixed.</p>
+            <p>And thus much for the three deceased Lyons, and for them that think more Superstitiously then thus of their Omens and their Portendings, they would do well to go to the <hi>Bagnio,</hi> and sweat out their folly.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
